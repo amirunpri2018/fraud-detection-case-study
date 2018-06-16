@@ -1,5 +1,5 @@
 # Fraud Detection Case Study
-### Drew, Michael M., David
+### Drew T., Michael M., David L.
   
 # Objective
 ## To train a fraud detection prediction model and deploy it on an application usable by fraud investigators as new cases are created.
